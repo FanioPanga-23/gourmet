@@ -1,0 +1,21 @@
+@media screen and (min-width: 599px){
+    menu a.direita{
+        display: block;
+    }
+
+/*Section About*/
+    .art-main{
+        flex-flow: row nowrap;
+        justify-content: space-between;
+    }
+    
+    .all-image{
+        display: block;
+        width: 48%;
+    }
+
+    /*Description Box*/
+    .descript{width: 48%;}
+
+    hr{max-width: 1070px;}
+}
